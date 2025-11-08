@@ -79,3 +79,7 @@ https://github.com/angelGala1/Tarea2ScrollInfinito
 Flutter Team por el excelente framework
 Comunidad de flutter_bloc por los paquetes
 Todos los contribuidores del proyecto
+
+
+APK
+https://www.mediafire.com/file/06zcyayimjqrj3m/app-release.apk/file
